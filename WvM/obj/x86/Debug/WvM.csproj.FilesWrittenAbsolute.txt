@@ -1,0 +1,5 @@
+/home/krutonium/Projects/WvM/WvM/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/krutonium/Projects/WvM/WvM/bin/Debug/WvM.exe.mdb
+/home/krutonium/Projects/WvM/WvM/bin/Debug/WvM.exe
+/home/krutonium/Projects/WvM/WvM/obj/x86/Debug/WvM.exe
+/home/krutonium/Projects/WvM/WvM/obj/x86/Debug/WvM.exe.mdb
